@@ -1,0 +1,10 @@
+file: GID_activos.rds
+file_size: 438274
+pin_hash: 430cd5a295de235d
+type: rds
+title: 'GID_activos: a pinned 11140 x 19 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20260929T113232Z
+api_version: 1

@@ -1,0 +1,10 @@
+file: historico_llenado_web.rds
+file_size: 33091438
+pin_hash: 4064a74b0cec950f
+type: rds
+title: 'historico_llenado_web: a pinned 2252909 x 15 data frame'
+description: ~
+tags: ~
+urls: ~
+created: 20260929T113245Z
+api_version: 1
