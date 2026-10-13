@@ -1,10 +1,10 @@
 file: circuitos_periodo.rds
-file_size: 1809
-pin_hash: 5dd8e41d99a06d57
+file_size: 1808
+pin_hash: 7c8119b296dfbc63
 type: rds
 title: 'circuitos_periodo: a pinned 137 x 11 data frame'
 description: ~
 tags: ~
 urls: ~
-created: 20261010T120044Z
+created: 20261013T112630Z
 api_version: 1
