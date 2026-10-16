@@ -6,5 +6,5 @@ title: 'circuitos_periodo: a pinned 137 x 11 data frame'
 description: ~
 tags: ~
 urls: ~
-created: 20261015T115314Z
+created: 20261016T130229Z
 api_version: 1
