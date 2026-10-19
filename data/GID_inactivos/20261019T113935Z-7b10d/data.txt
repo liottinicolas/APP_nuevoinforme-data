@@ -6,5 +6,5 @@ title: 'GID_inactivos: a pinned 31200 x 16 data frame'
 description: ~
 tags: ~
 urls: ~
-created: 20261017T105803Z
+created: 20261019T113935Z
 api_version: 1
